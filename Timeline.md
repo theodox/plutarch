@@ -24,7 +24,7 @@ ad
 66 P. is 20, studying in Athens with Ammonius. Tiridates visits Rome w/ magi to "receive" his crown. Temple of Janus shut. Corbulo's son-in-law Vinicianus in a plot against Nero. Paul in Corinth, Nicopolis. Jewish Revolt (October). Thrasea Paetus commits suicide. (Annals 34-5; Dio 62.26.4) ccs Telesinus & Paullinus. 
 67 P still in Athens, perhaps with Trajan and/or Hadrian. Corbulo commits suicide before being arrested.  Nero travels in Greece, performs at the Olympics. Revolt of Vindex. Death of Paul in Rome. 
 68 Nero commits suicide (June 9). ccs. Silius Italicus & Trachalus. Galba emperor.
-69 P. is 23.  Year of four emperors; revolt begins in Germany on January 1, Galba murdered January 15. Otho takes over as a "Neronian". Otho ommits suicide at Bedriacum, Vitellius takes over (April 14).  Revolt of Civlis in Batavia. Siege of Jerusalem begins; Josephus captured. Vespasianists defeat Vitellius (December 22). Vespasian emperor. P will later visit the battlefield at Cremona in company with Florus.
+69 P. is 23.  Year of four emperors; revolt begins in Germany on January 1, Galba murdered January 15. Otho takes over as a "Neronian". Otho commits suicide at Bedriacum, Vitellius takes over (April 14). P's friend Mestrius is present ("under constraint"); P Will later tour battlefield.   Revolt of Civlis in Batavia. Siege of Jerusalem begins; Josephus captured. Vespasianists defeat Vitellius (December 22). Vespasian emperor. 
 70 Food panic at Rome due to failed annona. Fall of Jerusalem, destruction of the Temple (August 4 - September 2).  Serious fighting on the Rhines. Four legions disbanded and dishonored. Domitian marries Domitia Longina. Death of Heron of Alexandria, Columella. ccs. Augustus & Rufinus. 
 71 Revolt of Civilis crushed at Treves. Triumph over the Jews celebrated in Rome. ccs. Vespasian & Nerva
 72 Colosseum started. 
@@ -33,6 +33,7 @@ ad
 75 Titus and Vespasian consuls. Temple of Peace ("Vespasian's forum", housing Menorah, built in Rome)
 
 
+97 Apollonius of Tyana dies if you follow the "early chronology" (?) 
 
-
+117 P dedicates statue of Hadrian at Delphi w/ Amphictyons.
 118 (?)  P. dies, Delphi
