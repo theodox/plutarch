@@ -55,3 +55,11 @@ Incarnation
 ---------------
 > For it is neither probable nor fitting that God is, as some philosophers say, mingled with matter, which is altogether passive, and with things, which are subject to countless necessities, chances, and changes. On the contrary, somewhere up above in contact with that nature which, in accordance with the same principles, remains always as it is, established, as Plato​13 says, upon pedestals of holiness, proceeding in accordance with nature in his straight course, he reaches his goal
 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Ad_principem_ineruditum*.html)
+
+
+Deduction
+--------
+
+In De Defectu, Egyptians deduce from the behavior of an eternal lamp that years are shorter than they used to be\:
+
+> 3 1 The company was surprised at this, and Demetrius went so far as to say that it was ridiculous to try in this way to draw great conclusions from small data, not, as Alcaeus​5 puts it, "painting the lion from a single claw," but with a wick and lamp postulating a mutation in the heavens and the universe, and doing away completely with mathematical science.
