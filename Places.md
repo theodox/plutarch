@@ -4,6 +4,8 @@
 Good itinerary style Boeotia map 
 https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/maps/original-antique-map-ancient-greece-boeotia-thebes-1787/id-f_24413612/
 
+https://www.scribblemaps.com/create/#id=5x5rVLMTT1
+
 https://pleiades.stoa.org/places/540701/?searchterm=chaeronea*
 
 
