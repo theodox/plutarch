@@ -32,6 +32,7 @@
 |  -  |                             |         |          | Death of Paul in Rome.  Tiberius Claudis Critolaos, Tiberius Claudius Nicandros priests at Delphi.                                            |
 |  -  |                             |         |          | Sometime around here, Nero steals the image of Eros from Thespiae and sends it to Rome.                                                       |
 |  -  |                             |         |          | Nero promises dn 100,000 (later to be confiscated by Galba)                                                                                   |
+|  -  |                             |         |          | Likely date of "The E at Delphi"                                                                                                               |
 | 68  | Silius Italicus & Trachalus |   164   |          | Nero commits suicide (June 9). Galba emperor.                                                                                                 |
 |  -  |                             |         |          | P. marries Timoxena (? This seems early!)                                                                                                     |
 | 69  | Augustus & Rufinus          |         |   212    | Year of four emperors; revolt begins in Germany on January 1, Galba murdered January 15. Otho takes over as a "Neronian".                     |

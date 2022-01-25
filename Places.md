@@ -732,6 +732,15 @@ Lebadeia
 
 
 
+𒄑𒉋𒂵𒈩
+GIŠ-BIL2-GA-MES
+
+𒄑𒂅𒈦
+GIŠ-GIN2-MAŠ
+
+𒄑𒉈𒂵𒈩 
+GIŠ-NE-GA-MES
+
 
 Haliartus
 -----------------
@@ -744,6 +753,7 @@ Chaeronea
 
 > Perfume industry
 
+[Plutarch, Alexander 1.9] And even down to our own day there was shown an ancient oak by the Cephisus, called Alexander's oak, near which at that time he pitched his tent; and the general sepulchre of the Macedonians is not far away.
 
 
 [Strabo 98.37] Chaeroneia is near Orchomenus. It was here that Philip the son of Amyntas conquered the Athenians, Boeotians, and Corinthians in a great battle,​163 and set himself up as lord of Greece. And here, too, are to be seen tombs of those who fell in the battle, tombs erected at public expense. And it was in the same region that the Romans so completely defeated the forces of Mithridates, many tens of thousands in number, that only a few escaped in safety to the sea and fled in their ships, whereas the rest either perished or were taken captive.
