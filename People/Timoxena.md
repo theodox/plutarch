@@ -2,7 +2,7 @@
 
 P's wife. They married circa 68.
 
-the [Consolatio](Consolatio.md) makes her out to be like P himself; grave, mellow, not showy. 
+the [Consolatio](/Works/Consolatio.md) makes her out to be like P himself; grave, mellow, not showy. 
  > But we, my dear wife, in our relations with each other have had no occasion for the one quarrel, nor, I think, shall we have any for the other. For, on the one hand, your plainness of attire and sober style of living has without exception amazed every philosopher who has shared our society and intimacy, neither is there any townsman of ours to whom Dat religious ceremonies, sacrifices, and the theatre you do not offer another spectacle — your own simplicity.
  
 https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Consolatio_ad_uxorem*.html
