@@ -2,9 +2,7 @@
 
 P's wife. They married circa 68.
 
-
-
-the Consolatio makes her out to be like P himself; grave, mellow, not showy. 
+the [Consolatio](Consolatio.md) makes her out to be like P himself; grave, mellow, not showy. 
  > But we, my dear wife, in our relations with each other have had no occasion for the one quarrel, nor, I think, shall we have any for the other. For, on the one hand, your plainness of attire and sober style of living has without exception amazed every philosopher who has shared our society and intimacy, neither is there any townsman of ours to whom Dat religious ceremonies, sacrifices, and the theatre you do not offer another spectacle — your own simplicity.
  
 https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Consolatio_ad_uxorem*.html
@@ -29,3 +27,5 @@ She was a Dionysiac initiate (Consolatio, 10)
 
 Her mother observed a very mellow mourning:
 > It is rather in our ancestral and ancient usages and laws that the truth of these matters is to be seen; for our people do not bring libations to those of their children who die in infancy, nor do they observe in their case any of the other rites that the living are expected to perform for the dead, as such children have no part in earth or earthly things; nor yet do they tarry where the burial is celebrated, at the graves, or at the laying out of the dead, and sit by the bodies. For the laws forbid us to mourn for infants, holding it impiety to mourn for those who have departed to a dispensation and a region too​50 that is better and more divine.​51 And since this is harder to disbelieve than to believe, Blet us keep our outward conduct as the laws command, and keep ourselves within yet freer from pollution and purer and more temperate.52
+
+She was also an author in her own right -- she wrote a piece "On Adornment" for a friend named Aristylla in [Conjugalia](/Works/Conjugalia.md). Ref [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0181%3Asection%3D48).

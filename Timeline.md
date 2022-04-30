@@ -32,7 +32,7 @@
 |  -  |                             |         |          | Death of Paul in Rome.  Tiberius Claudis Critolaos, Tiberius Claudius Nicandros priests at Delphi.                                            |
 |  -  |                             |         |          | Sometime around here, Nero steals the image of Eros from Thespiae and sends it to Rome.                                                       |
 |  -  |                             |         |          | Nero promises dn 100,000 (later to be confiscated by Galba)                                                                                   |
-|  -  |                             |         |          | Likely date of "The E at Delphi"                                                                                                               |
+|  -  |                             |         |          | Likely date of "The E at Delphi"                                                                                                              |
 | 68  | Silius Italicus & Trachalus |   164   |          | Nero commits suicide (June 9). Galba emperor.                                                                                                 |
 |  -  |                             |         |          | P. marries Timoxena (? This seems early!)                                                                                                     |
 | 69  | Augustus & Rufinus          |         |   212    | Year of four emperors; revolt begins in Germany on January 1, Galba murdered January 15. Otho takes over as a "Neronian".                     |
@@ -62,11 +62,11 @@
 | 96  |                             |         |          | p. is 50 TAQ for the _Amatorius_                                                                                                              |
 | 97  |                             |         |   219    | Apollonius of Tyana dies if you follow the "early chronology" (?)                                                                             |
 | 101 |                             |         |   220    |                                                                                                                                               |
-| 105 |                             |         |   221    |                                                                                                                                               |
+| 105 |                             |         |   221    | Birth of L. Calvenus Taurus                                                                                                                   |
 | 106 |                             |         |          | P. is 60                                                                                                                                      |
-| 115 |                             |         |          | Lamprias, P's brother, archon of Delphi                                                                                                       |
+| 115 |                             |         |          | Lamprias, P's brother, archon of Delphi. Around here, Taurus is P's pupil                                                                     |
 | 117 |                             |         |   224    | P dedicates statue of Hadrian at Delphi w/ Amphictyons                                                                                        |
-| 119 |                             |         |          | P is procurator of Achaia                                                                                                                     |
+| 119 |                             |         |          | P is procurator of Achaia .                                                                                                                   |
 | 121 |                             |         |   224    |                                                                                                                                               |
 | 125 |                             |         |          | Hadrian visits Thebes                                                                                                                         |
 
