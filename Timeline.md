@@ -50,12 +50,12 @@
 | 74  | Titus & Vespasian           |         |          | (approx) Vespasian's law paying teachers.                                                                                                     |
 | 75  | Titus & Vespasian           |         |          | Temple of Peace ("Vespasian's forum") housing Menorah built in Rome . Helvidius Priscus exiled                                                |
 | 77  |                             |         |   214    | asbestos mines in Carystus exhausted before now                                                                                               |
-| 79  |                             |         |          | Vespasian Dies (June 23, in Sabinum); Titus emperor                                                                                           |
+| 79  |                             |         |          | Vespasian Dies (June 23, in Sabinum); Titus emperor ; P is probably in Rome during this time                                                                                          |
 | 81  |                             |         |   215    |                                                                                                                                               |
 | 83  |                             |         |          | Domitian adopts "Germanicus".  Setting of De Defectu                                                                                          |
 | 85  |                             |         |   216    | G. Memmius Euthydamos, Eukleidas son of Astoxenus priests at Delphi.                                                                          |
 | 86  |                             |         |          | P. is 40. Trajan's cousin dies, he adopts Hadrian                                                                                             |
-| 88  |                             |   169   |          |                                                                                                                                               |
+| 88  |                             |   169   |         |  P's second visit to Rome around this time. |                                                                                                                                               |
 | 89  |                             |         |   217    |                                                                                                                                               |
 | 93  |                             |         |   218    |                                                                                                                                               |
 | 95  |                             |         |          | G. Memmius Euthydamos, Plutarch priests at Delphi (?)                                                                                         |
