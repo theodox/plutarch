@@ -1,0 +1,10 @@
+#  Mt. Cithaeron
+ 
+ Mountain in Boeotia. https://pleiades.stoa.org/places/540714. In the territory of (/Places/Plataea.md).  Connected to the death of Pentheus and the birth of Oedipus.  It's where Artemis killed Actaeon. Also the tomb of Mardonius.
+
+
+Pausanias (9.2.1ff)
+
+> On Mount Cithaeron, within the territory of Plataea, if you turn off to the right for a little way from the straight road, you reach the ruins of Hysiae and Erythrae. Once they were cities of Boeotia, and even at the present day among the ruins of Hysiae are a half-finished temple of Apollo and a sacred well. According to the Boeotian story oracles were obtained of old from the well by drinking of it.  Returning to the highway you again see on the right a tomb, said to be that of Mardonius. It is agreed that the body of Mardonius was not seen again after the battle, but there is not a similar agreement as to the person who gave it burial. It is admitted that Artontes, son of Mardonius, gave many gifts to Dionysophanes the Ephesian, but also that he gave them to others of the Ionians, in recognition that they too had spent some pains on the burial of Mardonius.
+> This road leads to Plataea from Eleutherae. On the road from Megara there is a spring on the right, and a little farther on a rock. It is called the bed of Actaeon, for it is said that he slept thereon when weary with hunting, and that into this spring he looked while Artemis was bathing in it. Stesichorus of Himera says that the goddess cast a deer-skin round Actaeon to make sure that his hounds would kill him, so as to prevent his taking Semele to wife.
+My own view is that without divine interference the hounds of Actaeon were smitten with madness, and so they were sure to tear to pieces without distinction everybody they chanced to meet. Whereabouts on Cithaeron the disaster befell Pentheus, the son of Echion, or where Oedipus was exposed at birth, nobody knows with the assurance with which we know the Cleft Road to Phocis, where Oedipus killed his father (Mount Cithaeron is sacred to Cithaeronian Zeus), as I shall tell of at greater length when this place in my story has been reached.

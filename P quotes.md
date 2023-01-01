@@ -6,7 +6,7 @@ marriage
 > Philosophers say of bodies that some are composed of separate elements, as a fleet or an army, others of elements joined together, as a house or a ship, and still others form together an intimate union, [p. 325] as is the case with every living creature. In about the same way, the marriage of a couple in love with each other is an intimate union ; that of those who marry for dowry or children is of persons joined together: and that of those who merely sleep in the same bed is of separate persons who may be regarded as cohabiting, but not really living together
 (http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0181%3Asection%3D34)
 
-(He goes on to talk about Leptis -- maybe heard this from Cornutus?)
+(He goes on to talk about Leptis -- maybe heard this from [Cornutus](/People/Cornutus.md)?
 
 > In Leptis, a city of Africa, it is an inherited custom 1 for the bride, on the day after her marriage, to send to the mother of the bridegroom and ask for a pot. The latter does not give it, and also declares that she has none, her purpose being that the bride may from the outset realize the stepmother's attitude in her mother-in-law, and, in the event of some harsher incident later on, may not feel indignant or resentful.
 

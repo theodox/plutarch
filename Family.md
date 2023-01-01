@@ -9,15 +9,15 @@ Family
 Great-Grandfather: Nicarchus
 Father: Autobulus, a biographer and philosopher. alternatively: Nicharcus
 Brother: Lamprias (supposed narrator of De Defectu) Probably older. Archon of Delphi, 115
+Brother: Timon ()
 
 Children:
 
 4 sons
 
-*Chairon*, first son died young, before the daughter 
-*Soclarus*, an adolescent at the time of "How a young man should listen to poets"
-*Autobulus* Survived his father.  A character in Table Talk. Narrator of Amatorius. 
-*Plutarchus*  Survived hist father. 
+[Charon](/People/Charon.md) first son died young, before the daughter
+[Soklaros](/People/Soklaros.md), an adolescent at the time of "How a young man should listen to poets"
+[Ploutarchos_2](/People/Plutarchos_2.md)  Survived hist father. 
 
 
 
