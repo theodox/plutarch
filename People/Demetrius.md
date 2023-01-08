@@ -24,4 +24,4 @@ obviously an ironic characterisation, only Cleombrotus turns out to be
 credulous and a little simple-minded, but Demetrius poses the central
 question, adds interesting details and gives a turn to the conversation.
 
-Horster, 621
+[Horster](/biblio/bibliography.md#horster-2008), 621
