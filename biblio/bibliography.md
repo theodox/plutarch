@@ -28,3 +28,10 @@ THE SOCIAL AND HISTORICAL CONTEXT OF PLUTARCH’S EROTIKOS
 https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118316450.ch1
 Plutarch and ROme
 
+## Horster, 2008
+"Some Notes on Grammarians in Plutarch"
+https://www.semanticscholar.org/paper/Some-Notes-on-Grammarians-in-Plutarch-Horster/924be0eea56a5cdc38938f7941a4feeeaf12d0f7
+
+## Liddel, 2008
+"Scholarship and Morality: Plutarch’s Use of Inscriptions"
+https://www.degruyter.com/document/doi/10.1515/9783110211665.3.125/html

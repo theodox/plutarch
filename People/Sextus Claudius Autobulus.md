@@ -2,7 +2,7 @@
 
 P's nephew.  A tutor of Marcus Aurelius.  Must be a son of one of the Autobouluses (clarify).  Mentioned in Apuleius, I -- hes' the link that Apuleius claims to P's family on his mother's side.
 
-This branch of the family were famous in Chaeronea for generations: 
+This branch of the family were famous in Chaeronea for generations -- there were Claudii Autoboloi in Chaeronea in the 3d c.
 
 Σέξτον Κλαύδιον Αὐτόβουλον‎, ὁμώνυμον τῷ‎
 πατρί‎, ἕκτον ἀπὸ‎ Πλουτάρχου‎, ἀρετὴν πᾶσαν‎
