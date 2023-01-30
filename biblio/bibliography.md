@@ -35,3 +35,6 @@ https://www.semanticscholar.org/paper/Some-Notes-on-Grammarians-in-Plutarch-Hors
 ## Liddel, 2008
 "Scholarship and Morality: Plutarch’s Use of Inscriptions"
 https://www.degruyter.com/document/doi/10.1515/9783110211665.3.125/html
+
+## Jones 1968
+Jones, C. (1966). Towards A Chronology of Plutarch's Works. The Journal of Roman Studies, 56(1-2), 61-74. doi:10.2307/300134
