@@ -1,3 +1,5 @@
+#friends
+#philosophers
 
 Ammonius of Athens (not to be confused with Ammonias Saccas or Ammonius Hermiae)
 https://en.wikipedia.org/wiki/Ammonius_of_Athens

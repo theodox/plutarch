@@ -1,3 +1,5 @@
+#prophecy
+
 De sera numinis, 22.5 (566e), 
 
 during a vision of the underworld.   

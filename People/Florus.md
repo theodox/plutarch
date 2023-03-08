@@ -1,5 +1,8 @@
 # Lucius Mestrius Florus
 
+#friends 
+#politics 
+
 A consular (date uncertain, prob. before 69).  Accompanied Otho "unwillingly" to Bedriacum. He later showed P. the sites of the battlefield.  Presumably sponsored P's citizenship, since P. took his Latin name.
 
 If he was consul before 69, probably in 65 (suffect w/ Firmus). But he'd be quite old when proconsul of Asia in 87.  Otherwise, perhaps suffect consul in 86 (w/ Q Vibius Secundus) or 84 (two slots)

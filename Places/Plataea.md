@@ -1,6 +1,6 @@
 #  Plataea
 
-Plataea - Site of the classical city, site of the climactic battle against Persia. Plataeans were evicted from city by Thebans, restored by Philip after Chaeronea. In P's day the walls will have been about 2.5 miles around and were probably intact.
+Town of [Boeotia](/Places/Boeotia.md) - Site of the classical city, site of the climactic battle against Persia. Plataeans were evicted from city by Thebans, restored by Philip after Chaeronea. In P's day the walls will have been about 2.5 miles around and were probably intact.
 
 https://pleiades.stoa.org/places/541063/?searchterm=plataea*
 

@@ -1,4 +1,6 @@
 # Demetrius of Tarsus
+#characters #friends #philosophers 
+
 
 Grammarian, speaker in De Defectu.  Said to have visited Britain on a mission from Domitian. This was during the magistracy of Callistratus (83) and is described as a "holy man" (410A)
 >

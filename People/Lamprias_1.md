@@ -1,5 +1,7 @@
 # Lamprias son of Nicharchos
 
+#family
+
 P's grandfather.  Friend of Philotas of Amphyssa, who provided anecdotes about Antony and Cleopatra.  P. describes him as a genial host, he appears in several of the Table Talks (622E).  He taught P to read (738B).  He must have met Jewish people, he's the one who comments on Jewish aversion to sea food (669C, 670E).  May have been associated with the shrine of Delphi (per Oldfather, “Friend of Plutarch’s Grandfather,” 177. )
 
 Presumably Philotas might have been a bit older than Lamprias; this story will have been set circa 31 BC.

@@ -1,6 +1,6 @@
 # Thespiae
 
-Town of Thebes. Famous for rivalry with Thebes all the way through Leuctra era; Strabo says it's holding up better than Thebes in his day.  Big fans of Eros.  There was a famous statue of Eros by Praxiteles: stolen by Caligula, returned by Claudius, then stolen _again_ by Nero; it perished in the fire (so, 64).  There's a copy by Menodorus of Athens there. https://pleiades.stoa.org/places/541141
+Town of  [Boeotia](/Places/Boeotia.md). Famous for rivalry with [Thebes](/Places/Thebes.md) all the way through Leuctra era; Strabo says it's holding up better than Thebes in his day.  Big fans of Eros.  There was a famous statue of Eros by Praxiteles: stolen by Caligula, returned by Claudius, then stolen _again_ by Nero; it perished in the fire (so, 64).  There's a copy by Menodorus of Athens there. https://pleiades.stoa.org/places/541141
 
 See minor story about Menestratus and the Dragon in Pausanias
 

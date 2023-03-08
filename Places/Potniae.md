@@ -1,6 +1,6 @@
 # Potniae
 
-Ruined town of Boeotia https://pleiades.stoa.org/places/541070  Associated with one-time Human sacrifice.  Magic pig-transportation ritual.
+Ruined town of [Boeotia](/Places/Boeotia.md) https://pleiades.stoa.org/places/541070  Associated with one-time Human sacrifice.  Magic pig-transportation ritual.
 
 Pausanias:
 

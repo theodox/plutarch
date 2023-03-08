@@ -1,5 +1,8 @@
 # Musonius Rufus
 
+#philosophers 
+#politics
+
 Influential Roman Stoic philosopher, older contemporary of P, the teacher of Epictetus. "Classic stoic," famous for his gender-egalitarianism and opposition to tyranny. A long-haired vegetarian "raw food" enthusiast.  
 
 Born ~20's AD

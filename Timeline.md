@@ -24,7 +24,7 @@
 | 64 | Bassus & Crassus            |   163   |         | Great Fire of Rome (night of July 18). cc.. Stolen image of Eros destroyed                                                                    |
 | 65 | Nerva & Vestinus            |         |   211   | Pisonian conspiracy (April 19).  Plague at Rome. Senca commits suicide. Nero kills Poppea. Musonius Rufus exiled                              |
 | 66 | Telesinus & Paullinus       |         |         | P. is 20, studying in Athens with Ammonius (maybe, Trajan at 13?). Tiridates visits Rome w/ magi to "receive" his crown.                      |
-| -  |                             |         |         | Temple of Janus shut. Corbulo's son-in-law Vinicianus in a plot against Nero. Paul in Corinth, Nicopolis. Jewish Revolt (October).            |
+| -  |                             |         |         | Temple of Janus shut. Corbulo's son-in-law Vinicianus in a plot against Nero. Jewish Revolt (October).            |
 | -  |                             |         |         | Thrasea Paetus commits suicide. (Annals 34-5; Dio 62.26.4)                                                                                    |
 | -  |                             |         |         | Stadium at Delphi renovated -- it's a rush job, prone to leaking, and built in part out of older buildings, but has a "proscenium" stage      |
 | 67 | Rufus & Capito              |         |         | P still in Athens, perhaps with Trajan and/or Hadrian. Corbulo commits suicide before being arrested.                                         |

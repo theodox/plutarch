@@ -1,6 +1,6 @@
 #  Mt. Cithaeron
  
- Mountain in Boeotia. https://pleiades.stoa.org/places/540714. In the territory of (/Places/Plataea.md).  Connected to the death of Pentheus and the birth of Oedipus.  It's where Artemis killed Actaeon. Also the tomb of Mardonius.
+ Mountain in [Boeotia](/Places/Boeotia.md). https://pleiades.stoa.org/places/540714. In the territory of [Plataea](/Places/Plataea.md).  Connected to the death of Pentheus and the birth of Oedipus.  It's where Artemis killed Actaeon. Also the tomb of Mardonius.
 
 
 Pausanias (9.2.1ff)

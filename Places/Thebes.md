@@ -1,6 +1,6 @@
 # Thebes
 
-City of Boetia. Once a big deal, but in P's days pretty run down. Symbol of the faded glory of Boeotia.  https://pleiades.stoa.org/places/541138
+City of [Boeotia](/Places/Boeotia.md). Once a big deal, but in P's days pretty run down. Symbol of the faded glory of Boeotia.  https://pleiades.stoa.org/places/541138
 
 Thebes is about 50 km/ 10 hrs walk to Chaeronea.  Although it's c city it's not much of one for P.  Remnants of Alexander's siege works visible on the north side.  Drenched in myth-history but not much in the Roman world.  Had sided with Mithradates, and paid for it. Good metaphor for Boeotia's comedown. The sites of the historic "7 gates" are still visible.  Tomb of Pindar. Tomb of hector(!)
 

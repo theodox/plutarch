@@ -1,4 +1,5 @@
 # Lamprias son of Aristobulus
+#family 
 
 P's older brother.  Narraotr of _De Defectu_.  Must be eldest son of Aristobulus (1). Named for [his grandfather](/People/Lamprias_1.md).  Archon of Delphi ca. 115.
 

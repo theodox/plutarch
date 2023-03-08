@@ -1,4 +1,5 @@
-# Aristion (philosopher)
+#friends #philosophers #characters
+
 
 Speaker in Table-Talk (692b)
 

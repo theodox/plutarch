@@ -1,5 +1,6 @@
 # Protogenes of Tarsus
 
+#friends #characters #philosophers 
 A grammarian, who figures in several dialogs.  Probably intended to be a stoic.  Seems to be a figure of conventional opinions or even a figure of fun ("Hermeas the geometrician demanded of Protogenes the grammarian a reason why Alpha was the first letter of the alphabet. And he returned the common answer of the schools" 737e, he's corrected by both Lamprias and by Plutarch )
 
 Must be a Boeotian by birth despti the "of tarsus" ( 738 a)
